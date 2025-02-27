@@ -1,0 +1,182 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+body{
+    background-color:#bacbdf;
+}
+.dev {
+    font-size: 150px;
+    background: linear-gradient(to right, #ff7e5f, #feb47b, #ff6a00, #6a11cb, #2575fc);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.achievements{
+    height: 300px;
+}
+.bharathi{
+    position: relative;
+}
+.prash{
+    position:absolute;
+    height: 100px;
+    width: 100px;
+    top: -70px;
+    left: 0px;
+    font-size: 80px;
+    text-align: center;
+    background-color: black;
+}
+.vinaykumar{
+    border-left: 50%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-top-right-radius: 50%;
+    width: 300px;
+    height: 300px;
+    background-color: #feb47b;
+}
+#scrollspyHeading2,#scrollspyHeading3,#scrollspyHeading4,#scrollspyHeading5,#scrollspyHeading6{
+    font-size: 40px;
+    background: linear-gradient(to right, #ff7e5f, #feb47b, #ff6a00, #6a11cb, #2575fc);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+    margin: 30px auto;
+}
+.cont{
+    width: 700px;
+}
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    width: 780px;
+    justify-content: space-evenly;
+}
+.skill{
+    margin-bottom: 70px;
+}
+.p{
+    width: 150px;
+    background: linear-gradient(to right, #ff7e5f, #feb47b, #ff6a00, #6a11cb, #2575fc);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+}
+.about{
+    font-size: 40px;
+    background: linear-gradient(to right, #ff7e5f, #feb47b, #ff6a00, #6a11cb, #2575fc);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+}
+.form-control-sm{
+    height: 100px;
+}
+.card{
+    height: 550px;
+}
+.ab{
+    color: dimgray;
+}
+.img{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 25px;
+}
+.dis{
+    position: relative;
+    border-radius: 10px;
+    background-color: rgb(186, 203, 223);
+    padding-bottom: 10px;
+}
+.img{
+    position: absolute;
+    bottom: 10px;
+    right: 200px; 
+}
+.con{
+    position: absolute;
+    right: 15px;
+    left: 1200px;
+    bottom:5px;
+    color: black;
+    text-align: end;
+}
+.con>p{
+    font-size: 20px;
+}
+.com{
+    width: auto;
+    font-size: 40px;
+    flex-wrap: wrap;
+}
+.first{
+    width: 350px;
+    height:300px;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: #feb47b;
+}
+.text{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 25px;
+    text-align: center;
+}
+.morgan{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.work{
+    width: 900px;
+    height: 250px;
+    background-color: rgb(219, 212, 212);
+    border-radius: 20px;
+    margin: 20px auto;
+    padding: 20px 20px;
+}
+.company{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cont>p{
+    font-size: 40px;
+    color: dimgray;
+}
+.company>h3{
+    color: dimgray;
+}
+.cont>h3,h4{
+    color: dimgray;
+}
+.role>p{
+    font-size: 20px;
+    text-align: center;
+    width:120px;
+    height: auto;
+    background-color: aqua;
+    color: black;
+    border-radius: 10px;
+    margin-top: -15px;
+}
+.role>img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin: 0px;
+    margin-left: 35px;
+    object-fit: fill;
+}
+
+
+
